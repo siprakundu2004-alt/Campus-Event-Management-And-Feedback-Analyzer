@@ -380,5 +380,5 @@ The platform has been deliberately structured to allow seamless extension:
 * **Project Title:** Campus Event Management & Feedback Analyzer
 * **Course:** Master of Computer Applications (MCA)
 * **Domain:** Software Engineering, Full-Stack Python, and Data Analytics
-* **Developer:** MCA PBL Student Team
-* **Guide & Mentor:** Department of Computer Applications
+* **Developer:** SIPRA KUNDU
+* **Guide & Mentor:** Dr. Rahul Kumar Ghosh
