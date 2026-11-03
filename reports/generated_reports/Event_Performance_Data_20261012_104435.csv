@@ -1,0 +1,16 @@
+Event ID,Event Name,Category,Status,Capacity,Registered,Reviews,Avg Rating,Capacity Score,Rating Score,Engagement Score,Performance Score,Tier
+EVT-AI2026,AI & Machine Learning Workshop,Workshop,Completed,30,19,10,4.5,25.3,36.0,10.5,71.9,Top Performer
+EVT-HACK26,Smart Campus Hackathon 2026,Hackathon,Completed,35,23,10,4.4,26.3,35.2,8.7,70.2,Top Performer
+EVT-CYBER1,Cyber Security & Ethical Hacking Seminar,Seminar,Completed,25,16,8,4.0,25.6,32.0,10.0,67.6,Average Performer
+EVT-CULT01,Tarang: Annual Cultural Fest,Cultural,Completed,50,25,10,4.3,20.0,34.4,8.0,62.4,Average Performer
+EVT-CRIC01,Inter-Department Cricket Championship,Sports,Completed,30,13,1,4.0,17.3,32.0,1.5,50.9,Average Performer
+EVT-PYBOOT,Python & Data Science Bootcamp,Technical,Cancelled,25,15,0,0.0,24.0,20.0,0.0,44.0,Average Performer
+EVT-WEBDEV,Full-Stack Web Development Masterclass,Workshop,Completed,10,10,0,0.0,40.0,0.0,0.0,40.0,Average Performer
+EVT-ENTR01,Entrepreneurship & Startup Pitch Day,Competition,Registration Open,25,5,0,0.0,8.0,20.0,0.0,28.0,Needs Improvement
+EVT-CLOU01,Cloud Computing & DevOps Summit,Technical,Cancelled,40,7,0,0.0,7.0,20.0,0.0,27.0,Needs Improvement
+EVT-GDG001,UI/UX Design Sprint & Prototyping,Workshop,Registration Open,20,1,0,0.0,2.0,20.0,0.0,22.0,Needs Improvement
+EVT-ROBO01,Robotics & Embedded Systems Expo,Club Activity,Registration Open,20,0,0,0.0,0.0,20.0,0.0,20.0,Needs Improvement
+EVT-BADM01,Inter-College Badminton Tournament,Sports,Draft,32,0,0,0.0,0.0,20.0,0.0,20.0,Needs Improvement
+EVT-DRONE1,Drone Photography & Aerial Mapping Workshop,Workshop,Cancelled,15,0,0,0.0,0.0,20.0,0.0,20.0,Needs Improvement
+EVT-DEBATE,National Youth Parliament & Debate,Competition,Registration Closed,24,0,0,0.0,0.0,20.0,0.0,20.0,Needs Improvement
+EVT-FINTECH,Fintech & Algorithmic Trading Seminar,Seminar,Completed,20,6,0,0.0,12.0,0.0,0.0,12.0,Needs Improvement

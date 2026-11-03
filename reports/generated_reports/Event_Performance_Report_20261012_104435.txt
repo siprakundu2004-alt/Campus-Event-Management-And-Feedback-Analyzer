@@ -1,0 +1,31 @@
+==============================================================================
+CAMPUS EVENT MANAGEMENT & FEEDBACK ANALYZER - EVENT PERFORMANCE & STATUS REPORT
+Institution: BRAINWARE UNIVERSITY
+Generated:   2026-10-12 10:44
+==============================================================================
+
+EVENT ID     EVENT NAME                     CAP   REG   AVG ★   SCORE   TIER
+------------------------------------------------------------------------------
+EVT-AI2026   AI & Machine Learning Worksh   30    19    4.50    71.9    Top Performer
+EVT-HACK26   Smart Campus Hackathon 2026    35    23    4.40    70.2    Top Performer
+EVT-CYBER1   Cyber Security & Ethical Hac   25    16    4.00    67.6    Average Performer
+EVT-CULT01   Tarang: Annual Cultural Fest   50    25    4.30    62.4    Average Performer
+EVT-CRIC01   Inter-Department Cricket Cha   30    13    4.00    50.9    Average Performer
+EVT-PYBOOT   Python & Data Science Bootca   25    15    0.00    44.0    Average Performer
+EVT-WEBDEV   Full-Stack Web Development M   10    10    0.00    40.0    Average Performer
+EVT-ENTR01   Entrepreneurship & Startup P   25    5     0.00    28.0    Needs Improvement
+EVT-CLOU01   Cloud Computing & DevOps Sum   40    7     0.00    27.0    Needs Improvement
+EVT-GDG001   UI/UX Design Sprint & Protot   20    1     0.00    22.0    Needs Improvement
+EVT-ROBO01   Robotics & Embedded Systems    20    0     0.00    20.0    Needs Improvement
+EVT-BADM01   Inter-College Badminton Tour   32    0     0.00    20.0    Needs Improvement
+EVT-DRONE1   Drone Photography & Aerial M   15    0     0.00    20.0    Needs Improvement
+EVT-DEBATE   National Youth Parliament &    24    0     0.00    20.0    Needs Improvement
+EVT-FINTECH  Fintech & Algorithmic Tradin   20    6     0.00    12.0    Needs Improvement
+------------------------------------------------------------------------------
+Total Events Tracked: 15
+
+SCORING METHODOLOGY:
+  * Capacity Utilization (40%): How successfully the event met capacity targets.
+  * Feedback Satisfaction (40%): Normalized student review ratings (0-5 stars).
+  * Review Engagement (20%): Proportion of registered participants submitting feedback.
+==============================================================================

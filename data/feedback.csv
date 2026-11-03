@@ -1,0 +1,43 @@
+feedback_id,student_id,event_id,rating,comment,submission_date
+FBK-0001,STU001,EVT-AI2026,5,Outstanding workshop! The transformer and PyTorch exercises were hands-on and very clearly explained.,2026-09-25 15:45
+FBK-0002,STU002,EVT-AI2026,5,Best technical workshop of the semester. The instructors were industry experts.,2026-09-25 15:45
+FBK-0003,STU003,EVT-AI2026,4,Great content and practical labs. Could have used 30 minutes more for the deployment demo.,2026-09-25 15:45
+FBK-0004,STU004,EVT-AI2026,5,Extremely useful for my final semester project. Comprehensive slides and code repository.,2026-09-25 15:45
+FBK-0005,STU008,EVT-AI2026,4,Very informative sessions. The lab computing environment was well configured.,2026-09-25 15:45
+FBK-0006,STU010,EVT-AI2026,5,Super clear explanations of attention mechanisms and LLM prompting.,2026-09-25 15:45
+FBK-0007,STU011,EVT-AI2026,3,"Content was a bit fast-paced for beginners, but the recorded materials helped.",2026-09-25 15:45
+FBK-0008,STU015,EVT-AI2026,5,Top notch! Looking forward to advanced series on MLOps.,2026-09-25 15:45
+FBK-0009,STU016,EVT-AI2026,4,Very engaging. Good Q&A session at the end.,2026-09-25 15:45
+FBK-0010,STU021,EVT-AI2026,5,Exceptional clarity in machine learning concepts. 5 stars!,2026-09-25 15:45
+FBK-0011,STU002,EVT-CYBER1,4,Insightful session on SOC analyst roles and real-world penetration test workflows.,2026-09-25 15:45
+FBK-0012,STU006,EVT-CYBER1,5,Brilliant live demonstration of SQL injection mitigation and network packet analysis.,2026-09-25 15:45
+FBK-0013,STU007,EVT-CYBER1,3,"Good overview, but would prefer more hands-on lab time rather than lecture slides.",2026-09-25 15:45
+FBK-0014,STU009,EVT-CYBER1,4,Speaker shared excellent cybersecurity roadmap and certification advice.,2026-09-25 15:45
+FBK-0015,STU013,EVT-CYBER1,4,Engaging session. The live Kali Linux demo was impressive.,2026-09-25 15:45
+FBK-0016,STU014,EVT-CYBER1,3,Decent introduction to ethical hacking. Needed better microphone audio in hall.,2026-09-25 15:45
+FBK-0017,STU017,EVT-CYBER1,5,Highly motivating session. Inspired me to take CEH preparation seriously.,2026-09-25 15:45
+FBK-0018,STU023,EVT-CYBER1,4,Crisp explanations of OWASP Top 10 vulnerabilities.,2026-09-25 15:45
+FBK-0019,STU001,EVT-HACK26,5,Incredible hackathon atmosphere! Mentors were very supportive throughout the night.,2026-09-25 15:45
+FBK-0020,STU002,EVT-HACK26,5,Smooth problem statements and fair judging panel. High energy!,2026-09-25 15:45
+FBK-0021,STU003,EVT-HACK26,4,Great teamwork experience. High speed WiFi and snacks arrangement was great.,2026-09-25 15:45
+FBK-0022,STU007,EVT-HACK26,4,Challenging problem statements. Learned a ton of Git collaboration under pressure.,2026-09-25 15:45
+FBK-0023,STU008,EVT-HACK26,5,One of the best campus hackathons. Well organized timeline and awards.,2026-09-25 15:45
+FBK-0024,STU010,EVT-HACK26,5,Loved building our prototype. The final pitch round was very professional.,2026-09-25 15:45
+FBK-0025,STU011,EVT-HACK26,4,Very fun and competitive. Would love 48 hours instead of 36 hours next time.,2026-09-25 15:45
+FBK-0026,STU015,EVT-HACK26,5,Amazing hackathon! Our team won second runner up!,2026-09-25 15:45
+FBK-0027,STU017,EVT-HACK26,3,"Judges were a bit hurried during project evaluations, but otherwise great event.",2026-09-25 15:45
+FBK-0028,STU021,EVT-HACK26,4,Strong coding challenge. Good infrastructure support.,2026-09-25 15:45
+FBK-0029,STU001,EVT-CULT01,5,Mesmerizing evening! Battle of the bands was thrilling and audio quality was superb.,2026-09-25 15:45
+FBK-0030,STU005,EVT-CULT01,4,Vibrant crowd and outstanding dance performances. Great management.,2026-09-25 15:45
+FBK-0031,STU006,EVT-CULT01,4,Amphitheatre decorations and lighting were splendid.,2026-09-25 15:45
+FBK-0032,STU012,EVT-CULT01,5,Spectacular event. Brought the entire university together in celebration.,2026-09-25 15:45
+FBK-0033,STU013,EVT-CULT01,3,"Crowd control near the main gate was chaotic, but performances were wonderful.",2026-09-25 15:45
+FBK-0034,STU018,EVT-CULT01,4,Loved the cultural diversity and musical lineup.,2026-09-25 15:45
+FBK-0035,STU020,EVT-CULT01,5,Unforgettable night. Big applause to the organizing student team!,2026-09-25 15:45
+FBK-0036,STU024,EVT-CULT01,4,Great food stalls and stage setup.,2026-09-25 15:45
+FBK-0037,STU030,EVT-CULT01,4,Super energetic performances all evening.,2026-09-25 15:45
+FBK-0038,STU039,EVT-CULT01,5,Best cultural fest in recent years!,2026-09-25 15:45
+FBK-BD3A16,STU001,EVT-CRIC01,4,,2026-10-12 10:17
+FBK-1A76FF,STU009,EVT-HACK26,2,,2026-10-12 10:50
+FBK-CF93F1,STU009,EVT-WEBDEV,4,,2026-10-12 10:50
+FBK-4B5CFE,STU004,EVT-HACK26,3,,2026-10-12 21:02

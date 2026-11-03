@@ -1,0 +1,15 @@
+# Core Application Framework
+streamlit>=1.35.0
+
+# Data Processing & Aggregation
+pandas>=2.0.0
+
+# Numerical & Statistical Computing
+numpy>=1.24.0
+
+# Publication-Grade & Interactive Data Visualization
+matplotlib>=3.7.0
+plotly>=5.18.0
+
+# Testing & Quality Assurance
+pytest>=7.0.0
